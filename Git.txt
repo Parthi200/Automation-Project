@@ -1,0 +1,11 @@
+ git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+
+git clone
+git add .
+git commit
+
+
+Git GUI - Through UI
+GIt Bash- Cmd
